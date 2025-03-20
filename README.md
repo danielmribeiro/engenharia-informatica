@@ -10,7 +10,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | Class Name | Projects |
 | ---- | ---- | 
 | [Álgebra e Geometria Analítica](https://github.com/danielmribeiro/ipg-lei-algebra-e-geometria-analitica) | |
-| [Algoritmos e Estrutura de Dados](https://github.com/danielmribeiro/ipg-lei-algoritmos-e-estruturas-de-dados) | - Milk & Body Mass Study <br> - [Highway Traffic Management](https://github.com/danielmribeiro/highway-traffic-management) |
+| [Algoritmos e Estrutura de Dados](https://github.com/danielmribeiro/ipg-lei-algoritmos-e-estruturas-de-dados) | - [Body mass loss due to milk type change](https://github.com/danielmribeiro/body-mass-loss-due-to-milk-type-change) <br> - [Highway Traffic Management](https://github.com/danielmribeiro/highway-traffic-management) |
 | [Análise Matemática](https://github.com/danielmribeiro/ipg-lei-analise-matematica) | |
 | [Introdução à Programação](https://github.com/danielmribeiro/ipg-lei-introducao-a-programacao) | |
 | [Tecnologias da Internet](https://github.com/danielmribeiro/ipg-lei-tecnologias-da-internet) | |
