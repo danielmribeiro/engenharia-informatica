@@ -13,7 +13,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | [Algoritmos e Estrutura de Dados](https://github.com/danielmribeiro/ipg-lei-algoritmos-e-estruturas-de-dados) | - [Body mass loss due to milk type change](https://github.com/danielmribeiro/body-mass-loss-due-to-milk-type-change) <br> - [Highway Traffic Management](https://github.com/danielmribeiro/highway-traffic-management) |
 | [Análise Matemática](https://github.com/danielmribeiro/ipg-lei-analise-matematica) | |
 | [Introdução à Programação](https://github.com/danielmribeiro/ipg-lei-introducao-a-programacao) | |
-| [Tecnologias da Internet](https://github.com/danielmribeiro/ipg-lei-tecnologias-da-internet) | |
+| [Introdução à Física](https://github.com/danielmribeiro/ipg-lei-introducao-a-fisica) | |
 
 #### Year 1 - Semester 2
 
@@ -21,9 +21,9 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | ---- | ---- | 
 | [Engenharia de Software I](https://github.com/danielmribeiro/ipg-lei-engenharia-de-software-i) | - Trilhos na Estrela <br> - Guarda Snowrock Summer Fest 2017 |
 | [Programação](https://github.com/danielmribeiro/ipg-lei-programacao) | |
-| [Introdução à Física](https://github.com/danielmribeiro/ipg-lei-introducao-a-fisica) | |
 | [Sistemas Digitais I](https://github.com/danielmribeiro/ipg-lei-sistemas-digitais-i) | |
-| Métodos Numéricos | |
+| [Métodos Numéricos](https://github.com/danielmribeiro/ipg-lei-metodos-numericos) | |
+| [Tecnologias da Internet](https://github.com/danielmribeiro/ipg-lei-tecnologias-da-internet) | |
 
 ## 🏛️ Instituto Superior de Engenharia de Coimbra
 
