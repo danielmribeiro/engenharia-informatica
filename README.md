@@ -34,7 +34,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | [Gestão](https://github.com/danielmribeiro/isec-lei-gestao) | |
 | Álgebra Linear | |
 | Análise Matemática I | |
-| Introdução à Programação | |
+| [Introdução à Programação](https://github.com/danielmribeiro/isec-lei-introducao-a-programacao) | |
 | Sistemas Digitais | |
 | Tecnologias WEB | |
 | Linguagens Script | |
