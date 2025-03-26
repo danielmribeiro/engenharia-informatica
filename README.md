@@ -48,7 +48,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | [Fundamentos de Computação Gráfica](https://github.com/danielmribeiro/isec-lei-fundamentos-de-computacao-grafica) | - Animation <br> - Game |
 | [Métodos Estatísticos](https://github.com/danielmribeiro/isec-lei-metodos-estatisticos) | |
 | [Tecnologias e Arquiteturas de Computadores](https://github.com/danielmribeiro/isec-lei-tecnologias-e-arquiteturas-de-computadores) | - Toy Blast <br> - Snake |
-| Programação | |
+| [Programação](https://github.com/danielmribeiro/isec-lei-programacao) | |
 
 #### Year 2 - Semester 1
 
