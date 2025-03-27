@@ -35,8 +35,8 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | Álgebra Linear | |
 | Análise Matemática I | |
 | [Introdução à Programação](https://github.com/danielmribeiro/isec-lei-introducao-a-programacao) | |
-| Sistemas Digitais | |
-| Tecnologias WEB | |
+| [Sistemas Digitais](https://github.com/danielmribeiro/isec-lei-sistemas-digitais) | |
+| [Tecnologias WEB](https://github.com/danielmribeiro/isec-lei-tecnologias-web) | |
 | Linguagens Script | |
 
 #### Year 1 - Semester 2
@@ -58,8 +58,8 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | [Introdução às Redes de Comunicação](https://github.com/danielmribeiro/isec-lei-introducao-as-redes-de-comunicacao) | |
 | [Investigação Operacional](https://github.com/danielmribeiro/isec-lei-investigacao-operacional) | |
 | [Introdução à Inteligência Artificial](https://github.com/danielmribeiro/isec-lei-introducao-a-inteligencia-artificial) | - Rational Agents: Simulation Between Flies and Sterile Flies <br> - Optimization Problem |
-| [Sistemas Operativos](https://github.com/danielmribeiro/isec-lei-sistemas-operativos-ii) | - Bomberman <br> - MEDIT <br> - MSGDIST <br> - Champion |
-| Programação Orientada a Objetos | |
+| [Sistemas Operativos](https://github.com/danielmribeiro/isec-lei-sistemas-operativos) | - Bomberman <br> - MEDIT <br> - MSGDIST <br> - Champion |
+| [Programação Orientada a Objetos](https://github.com/danielmribeiro/isec-lei-programacao-orientada-a-objetos) | |
 
 #### Year 2 - Semester 2
 
@@ -70,7 +70,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | [Interação Pessoa Máquina](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina) | - Design Percetível <br> - Guidelines HHS: Gráficos, Imagem e Multimédia <br> - Avaliação heurística de um WebSite <br> - Desenho da interação: Coisas Especiais para populações especiais |
 | [Modelação e Design](https://github.com/danielmribeiro/isec-lei-modelacao-e-design) | - E-Recarga |
 | [Programação Avançada](https://github.com/danielmribeiro/isec-lei-programacao-avancada) | - Destination Earth <br> - Planet Bound<br> - Four in a Row: Demolisher Edition <br> |
-| [Sistemas Operativos II](https://github.com/danielmribeiro/isec-lei-sistemas-operativos) | - Arkanoid Breakout <br> - Sistema de Gestão do Espaço Aéreo <br> - Jogo dos Tubos <br> - Frogger <br> |
+| [Sistemas Operativos II](https://github.com/danielmribeiro/isec-lei-sistemas-operativos-ii) | - Arkanoid Breakout <br> - Sistema de Gestão do Espaço Aéreo <br> - Jogo dos Tubos <br> - Frogger <br> |
 
 #### Year 3 - Semester 1
 
@@ -88,6 +88,13 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | ---- | ---- |
 | [Projeto ou Estágio](https://github.com/danielmribeiro/isec-lei-projeto-ou-estagio) | |
 | [Ética e Deontologia](https://github.com/danielmribeiro/isec-lei-etica-e-deontologia) | |
+
+#### Classes from a Different Degree Track
+
+| Class Name | Projects |
+| ---- | ---- |
+| [Serviço de Redes](https://github.com/danielmribeiro/isec-lei-servico-de-redes) | |
+| [Segurança](https://github.com/danielmribeiro/isec-lei-seguranca) | |
 
 ## Contact
 
