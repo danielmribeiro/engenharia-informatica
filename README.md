@@ -23,7 +23,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | [Programação](https://github.com/danielmribeiro/ipg-lei-programacao) | |
 | [Sistemas Digitais I](https://github.com/danielmribeiro/ipg-lei-sistemas-digitais-i) | - [Circuito NOR RTL](https://github.com/danielmribeiro/ipg-lei-sistemas-digitais-i/blob/master/reports/circuito_nor_rtl/relatorio_circuito_NOR_RTL.pdf) <br> - [Conversor de Binário para Gray](https://github.com/danielmribeiro/ipg-lei-sistemas-digitais-i/blob/master/reports/conversor_de_binario_para_gray/relatorio_conversor_de_binario_para_gray.pdf) <br> - [Conversor de Binário para Gray com Multiplexador](https://github.com/danielmribeiro/ipg-lei-sistemas-digitais-i/blob/master/reports/conversor_de_binario_para_gray_com_multiplexador/relatorio_conversor_de_binario_para_gray_com_multiplexador.pdf) <br> - [Somador BCD com Excesso 3](https://github.com/danielmribeiro/ipg-lei-sistemas-digitais-i/blob/master/reports/somador_bcd_com_excesso_3/relatorio_somador_bcd_com_excesso_3.pdf) |
 | [Métodos Numéricos](https://github.com/danielmribeiro/ipg-lei-metodos-numericos) | |
-| [Tecnologias da Internet](https://github.com/danielmribeiro/ipg-lei-tecnologias-da-internet) | |
+| [Tecnologias da Internet](https://github.com/danielmribeiro/ipg-lei-tecnologias-da-internet) | - [Principais servicos e protocolos da internet](https://github.com/danielmribeiro/ipg-lei-tecnologias-da-internet/tree/master/presentation/principais_servicos_e_protocolos_da_internet) |
 
 ## 🏛️ Instituto Superior de Engenharia de Coimbra
 
