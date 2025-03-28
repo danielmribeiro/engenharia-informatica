@@ -31,7 +31,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 
 | Class Name | Projects |
 | ---- | ---- |
-| [Gestão <br> (Management)](https://github.com/danielmribeiro/isec-lei-gestao) | |
+| [Gestão <br> (Management)](https://github.com/danielmribeiro/isec-lei-gestao) | - Group Work |
 | Álgebra Linear <br> (Linear Algebra) | |
 | Análise Matemática I <br> (Mathematical Analysis I) | |
 | [Introdução à Programação <br> (Introduction to Programming)](https://github.com/danielmribeiro/isec-lei-introducao-a-programacao) | |
