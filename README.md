@@ -70,7 +70,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | [Interação Pessoa Máquina <br> (Human-Computer Interaction)](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina) | - Design Percetível <br> <br> - Guidelines HHS: Gráficos, Imagem e Multimédia <br> <br> - Avaliação heurística de um WebSite <br> <br> - Desenho da interação: Coisas Especiais para populações especiais |
 | [Modelação e Design <br> (Modeling and Design)](https://github.com/danielmribeiro/isec-lei-modelacao-e-design) | - E-Recarga |
 | [Programação Avançada <br> (Advanced Programming)](https://github.com/danielmribeiro/isec-lei-programacao-avancada) | - Destination Earth <br> <br> - Planet Bound <br> <br> - Four in a Row: Demolisher Edition |
-| [Sistemas Operativos II <br> (Operating Systems II)](https://github.com/danielmribeiro/isec-lei-sistemas-operativos-ii) | - Arkanoid Breakout <br> <br> - Sistema de Gestão do Espaço Aéreo <br> <br> - Jogo dos Tubos <br> <br> - Frogger |
+| [Sistemas Operativos II <br> (Operating Systems II)](https://github.com/danielmribeiro/isec-lei-sistemas-operativos-ii) | - Arkanoid Breakout <br> <br> - Sistema de Gestão do Espaço Aéreo <br> <br> - Jogo dos Tubos <br> <br> - [Frogger](https://github.com/danielmribeiro/frogger) |
 
 #### Year 3 - Semester 1
 
