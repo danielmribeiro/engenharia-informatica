@@ -65,7 +65,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 
 | Class Name | Projects |
 | ---- | ---- |
-| [Conhecimento e Raciocínio <br> (Knowledge and Reasoning)](https://github.com/danielmribeiro/isec-lei-conhecimento-e-raciocinio) | - Esophageal Cancer |
+| [Conhecimento e Raciocínio <br> (Knowledge Representation and Reasoning)](https://github.com/danielmribeiro/isec-lei-conhecimento-e-raciocinio) | - Esophageal Cancer |
 | [Empreendedorismo e Inovação <br> (Entrepreneurship and Innovation)](https://github.com/danielmribeiro/isec-lei-empreendedorismo-e-inovacao) | - MySit |
 | [Interação Pessoa Máquina <br> (Human-Computer Interaction)](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina) | - Design Percetível <br> <br> - Guidelines HHS: Gráficos, Imagem e Multimédia <br> <br> - Avaliação heurística de um WebSite <br> <br> - Desenho da interação: Coisas Especiais para populações especiais |
 | [Modelação e Design <br> (Modeling and Design)](https://github.com/danielmribeiro/isec-lei-modelacao-e-design) | - E-Recarga |
