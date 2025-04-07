@@ -70,7 +70,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | ⚠️[Conhecimento e Raciocínio <br> (Knowledge Representation and Reasoning)](https://github.com/danielmribeiro/isec-lei-conhecimento-e-raciocinio) | - ⚠️Esophageal Cancer |
 | ⚠️[Empreendedorismo e Inovação <br> (Entrepreneurship and Innovation)](https://github.com/danielmribeiro/isec-lei-empreendedorismo-e-inovacao) | - ⚠️MySit |
 | ⚠️[Interação Pessoa Máquina <br> (Human-Computer Interaction)](https://github.com/danielmribeiro/isec-lei-interacao-pessoa-maquina) | - ⚠️Design Percetível <br> <br> - ⚠️Guidelines HHS: Gráficos, Imagem e Multimédia <br> <br> - ⚠️Avaliação heurística de um WebSite <br> <br> - ⚠️Desenho da interação: Coisas Especiais para populações especiais |
-| ⚠️[Modelação e Design <br> (Modeling and Design)](https://github.com/danielmribeiro/isec-lei-modelacao-e-design) | - ⚠️E-Recarga |
+| ⚠️[Modelação e Design <br> (Modeling and Design)](https://github.com/danielmribeiro/isec-lei-modelacao-e-design) | - ⚠️[E-Recarga](https://github.com/danielmribeiro/e-recarga) |
 | ⚠️[Programação Avançada <br> (Advanced Programming)](https://github.com/danielmribeiro/isec-lei-programacao-avancada) | - ⚠️Destination Earth <br> <br> - ⚠️Planet Bound <br> <br> - ⚠️Four in a Row: Demolisher Edition |
 | ⚠️[Sistemas Operativos II <br> (Operating Systems II)](https://github.com/danielmribeiro/isec-lei-sistemas-operativos-ii) | - ⚠️Arkanoid Breakout <br> <br> - ⚠️Sistema de Gestão do Espaço Aéreo <br> <br> - ⚠️Jogo dos Tubos <br> <br> - ⚠️[Frogger](https://github.com/danielmribeiro/frogger) |
 
@@ -81,7 +81,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | ⚠️[Arquiteturas Móveis <br> (Mobile Architectures)](https://github.com/danielmribeiro/isec-lei-arquiteturas-moveis) | - ⚠️Gestão de Exames <br> <br> - ⚠️ReversISEC <br> <br> - ⚠️Firebase Cloud Messaging <br> <br> - ⚠️Receitas de Culinária <br> <br> - ⚠️Sudoku em Rede <br> <br> - ⚠️Shape Master <br> <br> - ⚠️Polygeon <br> <br> - ⚠️Shopping List <br> <br> - ⚠️Xamarin |
 | ⚠️[Estruturas de Dados <br> (Data Structures)](https://github.com/danielmribeiro/isec-lei-estruturas-de-dados) | |
 | ⚠️[Programação Distribuída <br> (Distributed Programming)](https://github.com/danielmribeiro/isec-lei-programacao-distribuida) | - ⚠️Spotify Clone <br> <br> - ⚠️MetaPD |
-| ⚠️[Programação WEB <br> (Web Programming)](https://github.com/danielmribeiro/isec-lei-programacao-web) | - ⚠️E-Recarga <br> <br> - ⚠️LabTestesOnline <br> <br> - ⚠️Rental4You |
+| ⚠️[Programação WEB <br> (Web Programming)](https://github.com/danielmribeiro/isec-lei-programacao-web) | - ⚠️[E-Recarga](https://github.com/danielmribeiro/e-recarga) <br> <br> - ⚠️LabTestesOnline <br> <br> - ⚠️Rental4You |
 | Gestão de Projeto de Software <br> (Software Project Management) | |
 
 #### Year 3 - Semester 2
