@@ -60,7 +60,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | ⚠️[Introdução às Redes de Comunicação <br> (Introduction to Communication Networks)](https://github.com/danielmribeiro/isec-lei-introducao-as-redes-de-comunicacao) | |
 | ⚠️[Investigação Operacional <br> (Operational Research)](https://github.com/danielmribeiro/isec-lei-investigacao-operacional) | |
 | ⚠️[Introdução à Inteligência Artificial <br> (Introduction to Artificial Intelligence)](https://github.com/danielmribeiro/isec-lei-introducao-a-inteligencia-artificial) | - ⚠️Rational Agents: Simulation Between Flies and Sterile Flies <br> <br> - ⚠️Optimization Problem |
-| ⚠️[Sistemas Operativos <br> (Operating Systems)](https://github.com/danielmribeiro/isec-lei-sistemas-operativos) | - ⚠️[Bomberman](https://github.com/danielmribeiro/bomberman) <br> <br> - ⚠️[MEDIT](https://github.com/danielmribeiro/medit) <br> <br> - ⚠️[MSGDIST](https://github.com/danielmribeiro/msgdist) <br> <br> - ⚠️[Champion](https://github.com/danielmribeiro/champion) |
+| ⚠️[Sistemas Operativos <br> (Operating Systems)](https://github.com/danielmribeiro/isec-lei-sistemas-operativos) | - ⚠️[Bomberman](https://github.com/danielmribeiro/bomberman) <br> <br> - ⚠️[MEDIT](https://github.com/danielmribeiro/medit) <br> <br> - ⚠️[MSGDIST](https://github.com/danielmribeiro/msgdist) <br> <br> - [CHAMPION](https://github.com/danielmribeiro/champion) |
 | ⚠️[Programação Orientada a Objetos <br> (Object-Oriented Programming)](https://github.com/danielmribeiro/isec-lei-programacao-orientada-a-objetos) | |
 
 #### Year 2 - Semester 2
