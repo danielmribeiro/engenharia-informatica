@@ -13,8 +13,8 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | ---- | ---- | 
 | [Álgebra e Geometria Analítica <br> (Algebra and Analytic Geometry)](https://github.com/danielmribeiro/ipg-lei-algebra-e-geometria-analitica) | |
 | ⚠️[Algoritmos e Estrutura de Dados <br> (Algorithms and Data Structures)](https://github.com/danielmribeiro/ipg-lei-algoritmos-e-estruturas-de-dados) | - ⚠️[Body mass loss due to milk type change](https://github.com/danielmribeiro/body-mass-loss-due-to-milk-type-change) <br> <br> - ⚠️[Highway Traffic Management](https://github.com/danielmribeiro/highway-traffic-management) |
-| ⚠️[Análise Matemática <br> (Mathematical Analysis)](https://github.com/danielmribeiro/ipg-lei-analise-matematica) | |
-| ⚠️[Introdução à Programação <br> (Introduction to Programming)](https://github.com/danielmribeiro/ipg-lei-introducao-a-programacao) | |
+| [Análise Matemática <br> (Mathematical Analysis)](https://github.com/danielmribeiro/ipg-lei-analise-matematica) | |
+| [Introdução à Programação <br> (Introduction to Programming)](https://github.com/danielmribeiro/ipg-lei-introducao-a-programacao) | |
 | ⚠️[Introdução à Física <br> (Introduction to Physics)](https://github.com/danielmribeiro/ipg-lei-introducao-a-fisica) | |
 
 #### Year 1 - Semester 2
