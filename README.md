@@ -3,7 +3,9 @@
 ## 🔍 About
 Welcome to my Engenharia Informática (Computer Science & Engineering) repository! Here, you'll find a collection of repositories for the classes and projects I completed during my academic journey. I pursued this degree at two wonderful universities, enriching my knowledge and skills along the way.
 
-> **Note:** The ⚠️ symbol indicates repositories that are currently under review. I am selectively uploading relevant files to avoid clutter, outdated versions, and potential exposure of personal or sensitive data. These repositories will be updated progressively.
+> **Note:**
+> The ⚠️ symbol indicates repositories that are currently under review. I’m selectively uploading relevant files to avoid clutter, outdated versions, and potential exposure of personal or sensitive data.
+> The 🗂️ symbol marks repositories that are being supplemented with digitized physical materials, such as handwritten notes or printed documents. These will be progressively scanned, cleaned, and uploaded for better accessibility.
 
 ## 🏛️ Instituto Politécnico da Guarda
 
