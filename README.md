@@ -81,7 +81,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | Class Name | Projects |
 | ---- | ---- |
 | ⚠️[Arquiteturas Móveis <br> (Mobile Architectures)](https://github.com/danielmribeiro/isec-lei-arquiteturas-moveis) | - ⚠️Gestão de Exames <br> <br> - ⚠️ReversISEC <br> <br> - ⚠️Firebase Cloud Messaging <br> <br> - ⚠️Receitas de Culinária <br> <br> - ⚠️Sudoku em Rede <br> <br> - ⚠️Shape Master <br> <br> - ⚠️Polygeon <br> <br> - ⚠️Shopping List <br> <br> - ⚠️Xamarin |
-| ⚠️[Estruturas de Dados <br> (Data Structures)](https://github.com/danielmribeiro/isec-lei-estruturas-de-dados) | |
+| ⚠️[Estruturas de Dados <br> (Data Structures)](https://github.com/danielmribeiro/isec-lei-estruturas-de-dados) | - ⚠️[Scapegoat Tree](https://github.com/danielmribeiro/isec-lei-estruturas-de-dados/blob/master/seminars/scapegoat-tree) <br> <br> - ⚠️[Merkle Tree]([https://github.com/danielmribeiro/medit](https://github.com/danielmribeiro/isec-lei-estruturas-de-dados/blob/master/seminars/merkle-tree) |
 | ⚠️[Programação Distribuída <br> (Distributed Programming)](https://github.com/danielmribeiro/isec-lei-programacao-distribuida) | - ⚠️Spotify Clone <br> <br> - ⚠️MetaPD |
 | ⚠️[Programação WEB <br> (Web Programming)](https://github.com/danielmribeiro/isec-lei-programacao-web) | - ⚠️[E-Recarga](https://github.com/danielmribeiro/e-recarga) <br> <br> - ⚠️LabTestesOnline <br> <br> - ⚠️[Rental4You](https://github.com/danielmribeiro/rental4you) |
 | Gestão de Projeto de Software <br> (Software Project Management) | |
