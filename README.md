@@ -97,8 +97,8 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 
 | Class Name | Projects |
 | ---- | ---- |
-| [Serviços de Rede I <br> (Network Services I)](https://github.com/danielmribeiro/isec-lei-servicos-de-rede-i) | |
-| [Segurança <br> (Security)](https://github.com/danielmribeiro/isec-lei-seguranca) | |
+| 🗂️[Serviços de Rede I <br> (Network Services I)](https://github.com/danielmribeiro/isec-lei-servicos-de-rede-i) | |
+| 🗂️[Segurança <br> (Security)](https://github.com/danielmribeiro/isec-lei-seguranca) | |
 
 ## Contact
 
