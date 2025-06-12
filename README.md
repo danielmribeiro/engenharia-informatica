@@ -91,7 +91,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | Class Name | Projects |
 | ---- | ---- |
 | ⚠️[Projeto ou Estágio <br> (Project or Internship)](https://github.com/danielmribeiro/isec-lei-projeto-ou-estagio) | |
-| ⚠️[Ética e Deontologia <br> (Ethics and Deontology)](https://github.com/danielmribeiro/isec-lei-etica-e-deontologia) | |
+| [Ética e Deontologia <br> (Ethics and Deontology)](https://github.com/danielmribeiro/isec-lei-etica-e-deontologia) | - [A Ética e as implicações na cibersegurança - Pedro Veiga](https://github.com/danielmribeiro/isec-lei-estruturas-de-dados/blob/master/lectures/lecture-2-report/palestra-n2.pdf) <br> <br> - [A Ética dos 3 P’s - Marco Galinha](https://github.com/danielmribeiro/isec-lei-estruturas-de-dados/blob/master/lectures/lecture-4-report/palestra-n4.pdf) <br> <br> - [Centro Nacional de Cibersegurança, CNCS e o CSIRT Nacional – CERT.PT - Rogério Raposo](https://github.com/danielmribeiro/isec-lei-estruturas-de-dados/blob/master/lectures/lecture-9-report/palestra-n9.pdf) |
 
 #### Classes from a Different Degree Track
 
