@@ -49,7 +49,7 @@ Welcome to my Engenharia Informática (Computer Science & Engineering) repositor
 | ---- | ---- |
 | ⚠️[Análise Matemática II <br> (Mathematical Analysis II) ](https://github.com/danielmribeiro/isec-lei-analise-matematica-ii) | - ⚠️Numerical Methods for Solving Initial Value Problems <br> <br> - ⚠️Numerical Differentiation and Integration Machine |
 | ⚠️[Eletrónica <br> (Electronics)](https://github.com/danielmribeiro/isec-lei-eletronica) | |
-| [Fundamentos de Computação Gráfica <br> (Fundamentals of Computer Graphics)](https://github.com/danielmribeiro/isec-lei-fundamentos-de-computacao-grafica) | - [Film](https://github.com/danielmribeiro/isec-lei-fundamentos-de-computacao-grafica/blob/master/projects/trabalho-pratico-2017-2018/filme.mp4) <br> <br> - Game |
+| 🗂️[Fundamentos de Computação Gráfica <br> (Fundamentals of Computer Graphics)](https://github.com/danielmribeiro/isec-lei-fundamentos-de-computacao-grafica) | - [Film](https://github.com/danielmribeiro/isec-lei-fundamentos-de-computacao-grafica/blob/master/projects/trabalho-pratico-2017-2018/filme.mp4) <br> <br> - Game |
 | ⚠️[Métodos Estatísticos <br> (Statistical Methods)](https://github.com/danielmribeiro/isec-lei-metodos-estatisticos) | |
 | ⚠️[Tecnologias e Arquiteturas de Computadores <br> (Computer Technologies and Architectures)](https://github.com/danielmribeiro/isec-lei-tecnologias-e-arquiteturas-de-computadores) | - ⚠️Toy Blast <br> <br> - ⚠️Snake |
 | ⚠️[Programação <br> (Programming)](https://github.com/danielmribeiro/isec-lei-programacao) | |
